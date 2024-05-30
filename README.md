@@ -1,5 +1,5 @@
 # Button-Toggle-Motor
-A short program which uses a botton to turn a motor on and off. 
+A short program which uses a button to turn a motor on and off. 
 
 This program made using the starter kit included in the FreeNove Starter Kit.
 
